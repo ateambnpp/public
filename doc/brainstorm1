@@ -2,4 +2,20 @@ Idea based on IoT
 
 A/ GPS provider comparison
 
-B/ Energy market
+
+B/ Energy market (electricity)
+
+the market is made of few big energy providers and a lot of indivuduals (producing their own thanks to solar panel on their roof, for example)
+
+the application help to find which energy provider is as the best price at a certain time, in a certain place.
+one use case could be for electric cars : where can you plug to charge ? the nearest ? the cheaper ? will it have enough energy to fill my entire battery (if I'm willing to make a full charge)
+
+The providers will be paid by the consummer, minus a small fee for the intermediate.
+
+The intermeiate creates and maintain the Dapp. It acts as a kind of broker, and is paid by the fees.
+Its role is to facilitate energy producers to find someone to sell to (essentially interesting for individuals) and help find consumers find the best provider in real time (or pseudo RT --> scale TBD)
+
+Plus, when the energy production exeed demand, it could be delivered to people free of charge, as a charity process.
+
+
+This market is beared by a Dapp, on- and off-chain.
